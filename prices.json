@@ -1,0 +1,57 @@
+{
+  "last_updated": "2026-03-13T22:44:26",
+  "last_updated_str": "Friday, 13 March 2026 at 10:44 PM",
+  "is_mock": false,
+  "stations": [
+    {
+      "name": "7-Eleven Logan Village",
+      "price": 234.9,
+      "price_str": "234.9c/L"
+    },
+    {
+      "name": "BP Logan Village",
+      "price": null,
+      "price_str": "Not reported"
+    },
+    {
+      "name": "Shell Logan Village",
+      "price": 237.5,
+      "price_str": "237.5c/L"
+    },
+    {
+      "name": "Ampol Yarrabilba",
+      "price": 235.9,
+      "price_str": "235.9c/L"
+    },
+    {
+      "name": "Ampol Yarrabilba South",
+      "price": 235.9,
+      "price_str": "235.9c/L"
+    },
+    {
+      "name": "Shell Tamborine",
+      "price": null,
+      "price_str": "Not reported"
+    },
+    {
+      "name": "Ampol Tamborine",
+      "price": null,
+      "price_str": "Not reported"
+    },
+    {
+      "name": "United Loganlea",
+      "price": null,
+      "price_str": "Not reported"
+    },
+    {
+      "name": "7-Eleven Loganlea",
+      "price": 234.9,
+      "price_str": "234.9c/L"
+    },
+    {
+      "name": "BP Waterford",
+      "price": 240.9,
+      "price_str": "240.9c/L"
+    }
+  ]
+}
